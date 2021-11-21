@@ -1,0 +1,16 @@
+#todos {
+  width: 35rem;
+  max-width: 70%;
+  margin: 5rem auto;
+}
+
+.todo-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.default-text {
+  text-align: center;
+  color: #2D354D;
+}

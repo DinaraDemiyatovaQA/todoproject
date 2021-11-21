@@ -1,0 +1,15 @@
+#todo-form {
+  width: 30rem;
+  max-width: 50%;
+  margin: 5rem auto;
+  padding: 2rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  background: #C4CCE3;
+}
+
+#todos {
+  width: 35rem;
+  max-width: 70%;
+  margin: 5rem auto;
+}

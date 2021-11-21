@@ -1,0 +1,50 @@
+#todo-form {
+    width: 30rem;
+    max-width: 50%;
+    margin: 5rem auto;
+    padding: 2rem;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    background: #C4CCE3;
+  }
+  
+
+.form-control {
+    margin: 1rem 0;
+}
+
+.form-control label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.form-control input {
+    display: block;
+    width: 100%;
+    border: 1px solid #868B9A;
+    border-radius: 5px;
+    font: inherit;
+    line-height: 1.5rem;
+    padding: 0 0.25rem;
+    outline: none;
+}
+
+button {
+    width: 40%;
+    font: inherit;
+    padding: 0.5rem;
+    border: 0.5px solid #F39354;
+    border-radius: 10px;
+    color: white;
+    background: #F39354;
+    box-shadow: 0 0 10px rgba(45, 75, 209, 0.26);
+    cursor: pointer;
+}
+
+button:hover,
+button:active {
+    background: #ac0e77;
+    border-color: #ac0e77;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
+}
